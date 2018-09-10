@@ -20,10 +20,7 @@ class Login extends CI_Controller {
 	 */
 	public function index()
 	{
-		echo "Risal";
+		echo "Ready Github";
 	}
-	public function keluar()
-	{
-		echo "Risal";
-	}
+
 }
